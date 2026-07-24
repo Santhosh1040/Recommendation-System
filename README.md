@@ -140,11 +140,6 @@ Like most recommendation systems, this implementation also has a few practical l
 
 ---
 
-## Future Improvements
-
-There are several directions in which this project could be extended. Matrix factorization techniques such as SVD could improve collaborative recommendations, while transformer-based embeddings could replace TF-IDF for richer content understanding. The recommendation engine could also be updated to support real-time model updates, implicit feedback, and larger-scale deployments using distributed data processing.
-
----
 
 ## Final Notes
 
