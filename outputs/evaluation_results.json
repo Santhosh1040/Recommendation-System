@@ -1,0 +1,8 @@
+{
+    "Users Evaluated": 595,
+    "Precision@10": 0.1138,
+    "Recall@10": 0.1019,
+    "HitRate@10": 0.5882,
+    "NDCG@10": 0.1771,
+    "Coverage": 0.147
+}
